@@ -1,7 +1,7 @@
 echo "EROS VERSACE"
 
 getapps() { 
-	sudo pacman -S i3-gaps urxvt tmux fish pywal-python vim ranger zathura weechat firefox tor deluge pulseaudio xorg xorg-server  
+	sudo pacman -S i3-gaps tmux fish vim ranger zathura weechat firefox tor deluge pulseaudio xorg xorg-server  
 }
 
 installconfig() {
